@@ -1,2 +1,2 @@
-# spknbgiziburuk_htb
-CMS_TugasVii GiziBuruk_NB PenyakitMerpati_NB SCM
+# SPK Naive Bayes - Gizi Buruk
+Sistem Pendukung Keputusan bertema Gizi Buruk dengan metode Theorema Naive Bayes
