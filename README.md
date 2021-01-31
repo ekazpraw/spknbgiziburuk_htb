@@ -1,0 +1,2 @@
+# spknbgiziburuk_htb
+CMS_TugasVii GiziBuruk_NB PenyakitMerpati_NB SCM
